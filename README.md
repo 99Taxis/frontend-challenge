@@ -1,4 +1,4 @@
-# Desafio front-end - 99
+# Desafio desenvolvedor front-end / 99
 
 O objetivo deste desafio é avaliar seus conhecimentos em organização, estilo, boas práticas e habilidades front-end.
 
